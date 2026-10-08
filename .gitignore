@@ -7,6 +7,8 @@ models/*.task
 
 *.csv
 *.pose
+*.pt
+*.npy
 
 .vscode/
 .DS_Store
